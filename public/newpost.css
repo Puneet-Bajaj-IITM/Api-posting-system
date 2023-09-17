@@ -1,0 +1,11 @@
+.content{
+    color: maroon;
+}
+
+button{
+    color: maroon;
+    font-weight: bold;
+    background-color: white;
+    border: 2px solid maroon;
+
+}

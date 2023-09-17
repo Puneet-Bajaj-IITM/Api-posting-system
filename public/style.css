@@ -1,0 +1,20 @@
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+
+.id{
+    color: rgb(155, 21, 21);
+}
+.username{
+    color: maroon;
+    font-style: italic;
+}
+
+.content{
+    padding: 1rem;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add a new post</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/newpost.css">
+</head>
+<body>
+    <form method="post" action="/posts/update/<%= id %>?_method=PATCH">
+        <h1>Update Post #<%= id %></h1>
+        <h2 class="username" >By @<%= username %></h2>
+        <h3>
+            
+        <div class="content">
+            <label for="content" class="content">Post : </label>
+            <textarea name="content"  id="content" cols="30" rows="10" placeholder="Enter content for the post"><%= content %></textarea>
+        </div>
+        </h3>
+        <button type="submit">Update Post</button>
+    </form>
+</body>
+</html>
