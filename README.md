@@ -1,6 +1,6 @@
 # NodePostManager - RESTful Post Management
 
-**NodePostManager --Quora**  is a RESTful web application for efficient post management. It's designed to simplify the process of adding, deleting, searching, and editing posts following REST principles. Built with Node.js and Express.js, it leverages key libraries like Method Override and UUID for a seamless user experience.
+NodePostManager is a RESTful web application for efficient post management, incorporating CSS, EJS, HTML, and JavaScript. It's designed to simplify the process of adding, deleting, searching, and editing posts following REST principles. Built with Node.js and Express.js, it leverages key libraries like Method Override and UUID for a seamless user experience.
 
 ## Features
 
@@ -15,12 +15,16 @@
 - Express.js
 - Method Override
 - UUID
+- HTML
+- CSS
+- EJS
+- JavaScript
 
 ## Installation
 
 1. Clone this repository to your local machine.
 2. Run `npm install` to install the required dependencies.
-3. Start the application with `npm index.js`.
+3. Start the application with `npm start`.
 4. Open your web browser and visit `http://localhost:7860` to access NodePostManager.
 
 ## Usage
@@ -34,10 +38,9 @@
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
 
-
 ## Author
 
-**Puneet Bajaj** from **Indian Institute of Technology , Madars**
+- Puneet Bajaj 
 
 ## Acknowledgments
 
