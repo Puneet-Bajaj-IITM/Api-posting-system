@@ -19,7 +19,7 @@ let posts = [
     {
         id: uuidv4(),
         username: "Gaangu..",
-        content: "I love you my baby, you are my soulmate"
+        content: "I am Gaangu..."
     },
     {
         id: uuidv4(),
@@ -29,7 +29,7 @@ let posts = [
     {
         id: uuidv4(),
         username: "Pagle",
-        content: "I am joi jdnwidn knxi "
+        content: "I am Pagle.., Naam to suna hi hoga "
     }
 ];
 
